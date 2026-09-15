@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "A responsive portfolio for banking technology, software implementation, and DevOps work. Built with HTML, CSS, and a small JavaScript enhancement. No package installation, API keys, or backend required.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bardhvula/portofolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bardhvula/portofolio/issues"
+  },
+  "homepage": "https://github.com/Bardhvula/portofolio#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
